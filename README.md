@@ -3,4 +3,5 @@ This is a darker edition of [robb0wen](https://github.com/robb0wen)'s [synthwave
 
 ## Why does this exist?
 I like themes with black backgrounds (maybe bad for my eyes) and I like [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) so I decided to put the two together and create this abomination. Nice.
+![Abomination](https://raw.githubusercontent.com/farhanpatwary/synthwave84-dark/blob/master/theme.png)
 
