@@ -1,0 +1,21 @@
+{
+    "name": "synthwave84-dark",
+    "displayName": "synthwave84-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "synthwave84-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/synthwave84-dark-color-theme.json"
+            }
+        ]
+    }
+}
