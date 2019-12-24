@@ -2,7 +2,7 @@
     "name": "synthwave84-dark",
     "displayName": "synthwave84-dark",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.41.0"
     },
